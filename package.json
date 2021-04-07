@@ -16,12 +16,12 @@
   "author": "Taufik - Kun",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasapv2.git"
+    "url": "git+https://github.com/morisfauzi/belajar.git"
   },
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasapv2/issues"
+    "url": "https://github.com/morisfauzi/belajar/issues"
   },
-  "homepage": "https://github.com/affisjunianto/botwasapv2/readme",
+  "homepage": "https://github.com/morisfauzi/belajar/readme",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
