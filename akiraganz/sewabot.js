@@ -9,7 +9,7 @@ Sewa Permanen : 25k
 _Gopay, Dana,Qris dan Tsel_
 
 Minat?PC
-Wa.me/6282158549899
+Wa.me/6282314756380
 `
 }
 exports.sewabot = sewabot
